@@ -4,7 +4,7 @@
 
 A local 2-player fighting game built with p5.js, inspired by Super Smash Bros' core mechanics. Players fight with a percentage-based damage system — as damage increases, knockback force increases (via a physics-based velocity/easing curve), eventually launching a player off-stage for a KO. Includes a dynamic camera that zooms and pans based on player distance, a stage with a main platform and floating platforms, wall-climbing/hanging, rolling with cooldowns, directional attacks (up/down/left/right) with distinct startup/active/recovery animation states, and visual effects (hit smoke, death particle lines, screen shake).
 
-**[Play it / view the code in the p5.js editor →](PASTE_YOUR_P5_EDITOR_LINK_HERE)**
+**[Play it / view the code in the p5.js editor →](https://editor.p5js.org/lucas.airewele/sketches/8dts0fH8i)**
 
 ## Controls
 
