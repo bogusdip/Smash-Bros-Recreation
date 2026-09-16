@@ -1,6 +1,15 @@
 # Smash Bros-Inspired Fighting Game
 
-<img width="720" height="406" alt="p5 js Web Editor _ Smash Bros Recreation FINAL_ - Opera 2026-09-15 21-55-17 (1)" src="https://github.com/user-attachments/assets/25283cb5-8f5a-4abc-9520-11851762a94e" />
+
+
+
+
+https://github.com/user-attachments/assets/4d2431a9-1b80-4806-8167-ddfe5ff4bbce
+
+
+
+
+(Very clicky video)
 
 A local 2-player fighting game built with p5.js, inspired by Super Smash Bros' core mechanics. Players fight with a percentage-based damage system — as damage increases, knockback force increases (via a physics-based velocity/easing curve), eventually launching a player off-stage for a KO. Includes a dynamic camera that zooms and pans based on player distance, a stage with a main platform and floating platforms, wall-climbing/hanging, rolling with cooldowns, directional attacks (up/down/left/right) with distinct startup/active/recovery animation states, and visual effects (hit smoke, death particle lines, screen shake).
 
